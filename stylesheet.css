@@ -1,0 +1,77 @@
+body{
+  background-color: hsl(0, 0%, 95%);
+
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 635px;
+  padding: 20px;
+}
+.container div{
+
+  padding:35px 50px 25px 40px;
+  height: 350px;
+  width: 180px;
+
+
+
+}
+p{
+  margin-top: 20px;
+    color: hsla(0, 0%, 100%, 0.5) ;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+h2{
+  margin-top:30px;
+color:  hsl(0, 0%, 95%);
+font-family: 'Big Shoulders Display', cursive;
+
+}
+.box1{
+  background-color: hsl(31, 77%, 52%) ;
+  border-radius:5px 0 0 5px ;
+}
+.box3{
+  background-color:  hsl(179, 100%, 13%);
+  border-radius:0 5px 5px 0 ;
+}
+.box2{
+  background-color:  hsl(184, 100%, 22%);
+
+}
+.button{
+   display: inline-block;
+  border:2px solid  hsl(0, 0%, 95%);
+  border-radius: 25px;
+  padding:10px 20px 10px 20px;
+  background-color: hsl(0, 0%, 95%); ;
+  text-decoration: none;
+margin-top: 70px;
+font-family: 'Lexend Deca', sans-serif;
+font-size: 10px;
+}
+.b1{
+  color: hsl(31, 77%, 52%) ;
+}
+.b2{
+  color: hsl(184, 100%, 22%);
+}
+.b3{
+  color: hsl(179, 100%, 13%);
+}
+
+.b1:hover{
+  background-color: hsl(31, 77%, 52%) ;
+  color:hsl(0, 0%, 95%);
+}
+.b2:hover{
+  background-color: hsl(184, 100%, 22%);
+  color:hsl(0, 0%, 95%);
+}
+.b3:hover{
+  background-color:hsl(179, 100%, 13%);
+  color:hsl(0, 0%, 95%);
+}
