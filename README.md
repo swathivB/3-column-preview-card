@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [https://github.com/swathivB/Web-devlopment/settings/pages]
+- Live Site URL: [https://swathivb.github.io/3-column-preview-card/]
 ## My process
 
 ### Built with
